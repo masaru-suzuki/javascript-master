@@ -1,3 +1,4 @@
+normalFn = {
 	id: 42,
 	counter: function () {
 		console.log(this);
